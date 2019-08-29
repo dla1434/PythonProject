@@ -1,0 +1,9 @@
+li a{
+    color: green;
+}
+
+body{
+    /*background: white url("images/BeginAgain.jpg") no-repeat right bottom;*/
+    background: white url("images/BeginAgain.jpg") no-repeat center;
+    background-size: 1600px 900px;
+}
