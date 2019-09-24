@@ -3,6 +3,7 @@ import datetime
 
 # 현재 날짜/시간을 구하고 쉽게 사용할 수 있게 월을 변수에 저장합니다.
 now = datetime.datetime.now()
+print(now)
 year = now.year
 month = now.month
 day = now.day

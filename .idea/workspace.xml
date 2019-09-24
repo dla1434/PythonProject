@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18db5430-5729-4069-a0f0-74df9982faa0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Python_Study_Alone/14_if/03_if am pm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Study_Alone/14_if/03_if am pm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/fileMgr/fileMove.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/os/osTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/programmers/0001_print_hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/programmers/0002_variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/programmers/0003_comment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/programmers/0004_number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/programmers/0005_if.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/programmers/0006_ifblock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/programmers/0007_ifelse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/.idea/codeStyleSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/.idea/workspace.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Condition/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Condition/if.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/DataBase/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/DataBase/db_mysql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/File/Condition/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/File/Memo_0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/File/memo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/DragAndDrop/File.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/DragAndDrop/File_0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/DragAndDrop/File_0002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/DragAndDrop/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/Event/TextEditEvent_0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/Event/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/QFileDialog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/QFileDialog_0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/QMainWindow_0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/QMainWindow_0001_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/Qdialog_0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/Qdialog_0002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/Qdialog_0003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/SubtitleRenamer/SubListMain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/SubtitleRenamer/SubRenamer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/SubtitleRenamer/SubRenamer.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/SubtitleRenamer/SubRenamerMain.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/SubtitleRenamer/SubRenamerMain_0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/SubtitleRenamer/SubRenamerMain_0002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/SubtitleRenamer/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/SubtitleRenamer/test.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Gui/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/HttpReq/HttpReq_0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/HttpReq/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/MyDiag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/MyDiag.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/MyWindow.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Test/QTextEdit_append_0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/Test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/break.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/func_0001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/os.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/rename_replace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Temp_Test/workspace/shututil.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1487637297">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonModuleTest/Openpyxl/exam_newFileSave.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="e#23#52#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PythonModuleTest/Openpyxl/exam_newFileSave.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-1927" />
+    <option name="width" value="1934" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonModuleTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonProject" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonModuleTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Openpyxl" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18db5430-5729-4069-a0f0-74df9982faa0" name="Default Changelist" comment="" />
+      <created>1569336568451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569336568451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1927" y="0" width="1934" height="1057" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PythonModuleTest/Openpyxl/exam_newFileSave.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#23#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
